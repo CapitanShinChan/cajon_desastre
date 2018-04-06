@@ -4,7 +4,7 @@ Stuff that I had to look for in DuckDuckGo more than 1 time
 
 # Amazon AWS
 ## S3
-'''
+```
 aws.cmd s3api get-bucket-accelerate-configuration
 aws.cmd s3api get-bucket-acl
 aws.cmd s3api get-bucket-analytics-configuration
@@ -22,4 +22,4 @@ aws.cmd s3api get-bucket-request-payment
 aws.cmd s3api get-bucket-tagging
 aws.cmd s3api get-bucket-versioning
 aws.cmd s3api get-bucket-website
-'''
+```

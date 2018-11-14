@@ -1,6 +1,11 @@
 # cajon_desastre
 Stuff that I had to look for in DuckDuckGo more than 1 time
 
+## SH one liners
+```
+# Telling SSH to not verify or store the server signature
+ssh -vv -o UserKnownHostsFile=/dev/null -o StrictHostKeyChecking=no manolo@127.0.0.1 -p 2222
+```
 
 # Amazon AWS
 ## S3
